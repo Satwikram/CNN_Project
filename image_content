@@ -1,0 +1,4 @@
+Can use any images with two datasets:
+Training and Testing Seperate images
+
+This code will work for data with seperate training and test data and spyder with current working directory
